@@ -245,13 +245,17 @@ header .intro-text {
   text-align: center;
 }
 /* Features Section */
-#features {
+#subjects {
   background: #fdf9fa;
   padding-bottom: 60px;
 }
-#features i.fa {
+
+#subjects p {
+  padding-bottom: 40px;
+}
+
+#subjects i.fa {
   font-size: 38px;
-  margin-bottom: 20px;
   transition: all 0.5s;
   color: #fff;
   width: 100px;
@@ -262,7 +266,7 @@ header .intro-text {
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
 
-#features .section-title{
+#subjects .section-title{
   margin-top: 30px;
 }
 /* About Section */
@@ -442,7 +446,7 @@ header .intro-text {
   margin-top: 10px;
   font-size: 15px;
   font-weight: 600;
-  color: #666;
+  color: #643324;
 }
 /* Team Section */
 #team {
