@@ -466,6 +466,10 @@ header .intro-text {
 }
 #team .thumbnail .caption {
   padding: 10px 0 0;
+  color: rgb(0, 0, 0);
+}
+
+#team .stats {
   color: #888;
 }
 /* Contact Section */

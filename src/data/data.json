@@ -68,17 +68,34 @@
     {
       "img": "img/team/eric.png",
       "name": "Eric Robinson",
-      "job": "Math and Science"
+      "job": "Math and Science",
+      "info": "• M.S. in Physics (CSULA)",
+      "info2": "• B.S. in Physics (UCLA)",
+      "info3": "• 10 Years HS Teaching Experience",
+      "info4": "• Likes: Running, Hiking, Skateboarding, Flying, Cats",
+      "info5": "• Dislikes: Cold Leftovers"
     },
     {
       "img": "img/team/victoria.png",
       "name": "Victoria Thomas",
-      "job": "Senior Designer"
+      "job": "Engineering, Robotics, Data Science",
+      "info": "• B.E. in Machanical Engineering (Stevens)",
+      "info2": "• aaaaaaaaaaa",
+      "info3": "• 10 Years Teaching Experience",
+      "info4": "• Likes: Running, Hiking, Skateboarding, Flying, Cats",
+      "info5": "• Dislikes: Cold Leftovers"
     },
     {
       "img": "img/team/dan.png",
       "name": "Dan Ogrodnik",
-      "job": "Music and Technology"
+      "job": "Music and Technology",
+      "info": "• B.M. in Music (Hartt)",
+      "info2": "• B.F.A. in Music (Cal Arts)",
+      "info3": "• 12 Years Private Studio Experience",
+      "info4": "• HS, Undergrad, Postgrad Teaching Experience",
+      "info5": "• Likes: Snowboarding, Longboarding, Coffee, Cats",
+      "info6": "• Dislikes: Mosquitos"
+
     }
   ],
   "Contact": {

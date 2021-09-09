@@ -19,6 +19,12 @@ export const Team = (props) => {
                     <div className='caption'>
                       <h4>{d.name}</h4>
                       <p>{d.job}</p>
+                      <p className="stats">{d.info}</p>
+                      <p className="stats">{d.info2}</p>
+                      <p className="stats">{d.info3}</p>
+                      <p className="stats">{d.info4}</p>
+                      <p className="stats">{d.info5}</p>
+                      <p className="stats">{d.info6}</p>
                     </div>
                   </div>
                 </div>
