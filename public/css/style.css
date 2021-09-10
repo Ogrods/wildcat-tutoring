@@ -236,7 +236,7 @@ a:focus,
   font-size: 22px;
   font-weight: 300;
   line-height: 30px;
-  margin: 0 auto;
+  margin: 40px auto;
   margin-bottom: 60px;
 }
 header .intro-text {
@@ -251,6 +251,11 @@ header .intro-text {
 }
 
 #subjects p {
+  padding-bottom: 40px;
+}
+
+#subjects .subject {
+  font-size: smaller;
   padding-bottom: 40px;
 }
 

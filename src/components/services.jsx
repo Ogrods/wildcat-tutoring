@@ -5,8 +5,7 @@ export const Services = (props) => {
         <div className='section-title'>
           <h2>Our Services</h2>
           <p>
-          We pride ourselves on our flexibility for every learner's needs. Between the difficulties of distance learning, virtual schooling, or multiple students on different schedules in the same space, Wildcat Tutors specialize in maximizing learning through virtual tutoring. 
-
+              All sessions are online, recorded by the host, and hosted privately online for student access (Recorded sessions are hosted online for one year). Refer a new client and get a free one hour session!
           </p>
         </div>
         <div className='row'>

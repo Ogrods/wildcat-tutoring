@@ -1,21 +1,19 @@
 {
   "Header": {
     "title": "Pro Tutors for All Ages.",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "paragraph": "Get better grades from the first day to finals, get homework help, exam prep & writing support—tailored to your courses."
   },
   "About": {
-    "paragraph": "At Wildcat Tutoring we care about learning, plain and simple. Individualized lessons have a much higher information retention rate than a standard classroom education, and we know that when it comes to education that one size does not fit all. Our approach includes an individualized learning plan tailored for you and through our extensive teaching and tutoring experience, we will make sure that each student gets the utmost out of their educational endeavors. We want you to succeed.",
+    "paragraph": "At Wildcat Tutoring we care about learning, plain and simple. Individualized lessons have a much higher information retention rate than a standard classroom education, and we know that when it comes to education that one size does not fit all. Our approach includes an individualized learning plan tailored for your success, and through our extensive teaching and tutoring experience we make sure that each student gets the most out of their educational endeavors.",
     "Why": [
+      "Elementary School",
       "Middle School",
-      "High School",
-      "College (Undergraduate)",
-      "Working Adults"
+      "High School"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "College (Undergraduate)",
+      "Postgraduate Studies",
+      "Working Adults"
     ]
   },
   "Services": [
@@ -100,7 +98,7 @@
   ],
   "Contact": {
     "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
+    "phone": "+1 (213) 866-4702",
     "email": "info@company.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
@@ -110,32 +108,32 @@
     {
       "icon": "fa fa-calculator",
       "title": "Mathematics",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": "Pre-Algebra, Algebra I & II, Pre-Calculus, Trigonometry, Integrated Mathematics, Calculus, Statistics, and standardized test prep."
     },
     {
       "icon": "fa fa-flask",
       "title": "Science",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": "Physical Science, Chemistry (all levels), Physics (all levels), Biology (all levels), Environmental Science (all levels), and standardized test prep."
     },
     {
       "icon": "fa fa-pencil",
       "title": "English",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": "Essay writing assistance, English as a second language, English Literature, and English Rhetoric."
     },
     {
       "icon": "fa fa-book",
       "title": "History & Social Sciences",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": "Contemporary World History, Human Geography, U.S. History, and U.S. Politics & Economics."
     },
     {
       "icon": "fa fa-code",
       "title": "Robotics & Engineering",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": "Robotic Design & Competition, SolidWorks, AutoCAD, PLM & PDM, Fusion360, HTML/CSS, and Javascript."
     },
     {
       "icon": "fa fa-graduation-cap",
       "title": "College Prep",
-      "text": "College interview prep, application assistance, remedial education, SAT and ACT prep, and more."
+      "text": "Interview coaching, personal statement and scholarship essay editing, application assistance, remedial education, and SAT/ACT prep."
     }
   ]
 }
