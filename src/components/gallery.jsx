@@ -17,6 +17,7 @@ export const Gallery = (props) => {
                   <a
                     href='img/portfolio/toast1-large.png'
                     title='Toast'
+                    target='_blank'
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
@@ -38,6 +39,7 @@ export const Gallery = (props) => {
                   <a
                     href='img/portfolio/oogie1-large.png'
                     title='Oogie'
+                    target='_blank'
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
@@ -59,6 +61,7 @@ export const Gallery = (props) => {
                   <a
                     href='img/portfolio/boogie1-large.png'
                     title='Boogie'
+                    target='_blank'
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
@@ -78,17 +81,18 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/04-large.jpg'
-                    title='Project Title'
+                    href='img/portfolio/sherlock1-large.png'
+                    title='Sherlock'
+                    target='_blank'
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Lorem Ipsum</h4>
+                      <h4>Sherlock</h4>
                     </div>
                     <img
-                      src='img/portfolio/04-small.jpg'
+                      src='img/portfolio/sherlock1-small.png'
                       className='img-responsive'
-                      alt='Project Title'
+                      alt='Sherlock'
                     />{' '}
                   </a>{' '}
                 </div>
@@ -99,17 +103,18 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/05-large.jpg'
-                    title='Project Title'
+                    href='img/portfolio/oogieboogie1-large.png'
+                    title='Oogie & Boogie'
+                    target='_blank'
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Adipiscing Elit</h4>
+                      <h4>Oogie & Boogie</h4>
                     </div>
                     <img
-                      src='img/portfolio/05-small.jpg'
+                      src='img/portfolio/oogieboogie1-small.png'
                       className='img-responsive'
-                      alt='Project Title'
+                      alt='Oogie & Boogie'
                     />{' '}
                   </a>{' '}
                 </div>
@@ -122,6 +127,7 @@ export const Gallery = (props) => {
                   <a
                     href='img/portfolio/06-large.jpg'
                     title='Project Title'
+                    target='_blank'
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
@@ -143,6 +149,7 @@ export const Gallery = (props) => {
                   <a
                     href='img/portfolio/07-large.jpg'
                     title='Project Title'
+                    target='_blank'
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
@@ -164,6 +171,7 @@ export const Gallery = (props) => {
                   <a
                     href='img/portfolio/08-large.jpg'
                     title='Project Title'
+                    target='_blank'
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
@@ -185,6 +193,7 @@ export const Gallery = (props) => {
                   <a
                     href='img/portfolio/09-large.jpg'
                     title='Project Title'
+                    target='_blank'
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
