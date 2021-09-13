@@ -15,17 +15,17 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/01-large.jpg'
-                    title='Project Title'
+                    href='img/portfolio/toast1-large.png'
+                    title='Toast'
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Lorem Ipsum</h4>
+                      <h4>Toast</h4>
                     </div>
                     <img
-                      src='img/portfolio/01-small.jpg'
+                      src='img/portfolio/toast1-small.png'
                       className='img-responsive'
-                      alt='Project Title'
+                      alt='Toast'
                     />{' '}
                   </a>{' '}
                 </div>
@@ -36,17 +36,17 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/02-large.jpg'
-                    title='Project Title'
+                    href='img/portfolio/oogie1-large.png'
+                    title='Oogie'
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Adipiscing Elit</h4>
+                      <h4>Oogie</h4>
                     </div>
                     <img
-                      src='img/portfolio/02-small.jpg'
+                      src='img/portfolio/oogie1-small.png'
                       className='img-responsive'
-                      alt='Project Title'
+                      alt='Oogie'
                     />{' '}
                   </a>{' '}
                 </div>
@@ -57,17 +57,17 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/03-large.jpg'
-                    title='Project Title'
+                    href='img/portfolio/boogie1-large.png'
+                    title='Boogie'
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Lorem Ipsum</h4>
+                      <h4>Boogie</h4>
                     </div>
                     <img
-                      src='img/portfolio/03-small.jpg'
+                      src='img/portfolio/boogie1-small.png'
                       className='img-responsive'
-                      alt='Project Title'
+                      alt='Boogie'
                     />{' '}
                   </a>{' '}
                 </div>
