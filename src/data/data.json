@@ -42,13 +42,13 @@
       "name": "Chris Imasdounian"
     },
     {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/03.png",
+      "text": " I cannot praise Eric enough. He worked with my twins who had different learning styles , and attended different high schools. He assisted them to overcome their challenges and built their confidence. Both  ended up excelling in Math and AP calculus",
+      "name": "Nairie B."
     },
     {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "img": "img/testimonials/04.png",
+      "text": "I have had a very positive experience working with Mr. Robinson. He has been very patient and caters his tutoring sessions around my weaknesses. If I don’t understand it one way, he has another way to make me comprehend the topic. I truly appreciate his style and teaching.",
       "name": "Johnathan Doe"
     },
     {
@@ -78,10 +78,10 @@
       "name": "Victoria Thomas",
       "job": "Engineering, Robotics, Data Science",
       "info": "• B.E. in Machanical Engineering (Stevens)",
-      "info2": "• aaaaaaaaaaa",
-      "info3": "• 10 Years Teaching Experience",
-      "info4": "• Likes: Running, Hiking, Skateboarding, Flying, Cats",
-      "info5": "• Dislikes: Cold Leftovers"
+      "info2": "• 7+ years of Mechanism Design and Engineering Experience",
+      "info3": "• 2+ Years of Teaching Experience",
+      "info4": "• Likes: Bread, Spreadsheets, Thrift Shopping, Taking my cat for walks",
+      "info5": "• Dislikes: Shirts with Sleeves"
     },
     {
       "img": "img/team/dan.png",
