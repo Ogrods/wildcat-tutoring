@@ -34,12 +34,12 @@
     {
       "img": "img/testimonials/01.png",
       "text": "Victoria is an expert in Excel and tailored my tutoring sessions to my level of experience.  She has a kind demeanor and gentle teaching method and comes highly recommended.",
-      "name": "Jill Sparks"
+      "name": "Jill S."
     },
     {
       "img": "img/testimonials/02.png",
-      "text": "As a prospective engineer, Mr. Robinson helped me establish a strong foundation in math, physics, and chemistry. I could always count on him and I learned so much with his help.",
-      "name": "Chris Imasdounian"
+      "text": "As a prospective engineer, Mr. R helped me establish a strong foundation in math, physics, and chemistry. I could always count on him and I learned so much with his help.",
+      "name": "Chris I."
     },
     {
       "img": "img/testimonials/03.png",
@@ -48,13 +48,13 @@
     },
     {
       "img": "img/testimonials/04.png",
-      "text": "I have had a very positive experience working with Mr. Robinson. He has been very patient and caters his tutoring sessions around my weaknesses. If I don’t understand it one way, he has another way to make me comprehend the topic. I truly appreciate his style and teaching.",
-      "name": "Johnathan Doe"
+      "text": "I have had a very positive experience working with Mr. R, He has been very patient and caters his tutoring sessions around my weaknesses. If I don’t understand it one way, he has another way to make me comprehend the topic. I truly appreciate his style and teaching.",
+      "name": "Cedric K."
     },
     {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/05.png",
+      "text": "\"Victoria is a very patient, knowledgeable, excellent tutor.  I had struggled with my Business Information Tech class and she was able to clearly explain the material. Thank you Victoria for being so professional!\"",
+      "name": "Eva K."
     },
     {
       "img": "img/testimonials/06.jpg",
@@ -65,7 +65,7 @@
   "Team": [
     {
       "img": "img/team/eric.png",
-      "name": "Eric Robinson",
+      "name": "Eric R.",
       "job": "Math and Science",
       "info": "• M.S. in Physics (CSULA)",
       "info2": "• B.S. in Physics (UCLA)",
@@ -75,7 +75,7 @@
     },
     {
       "img": "img/team/victoria.png",
-      "name": "Victoria Thomas",
+      "name": "Victoria T.",
       "job": "Engineering, Robotics, Data Science",
       "info": "• B.E. in Machanical Engineering (Stevens)",
       "info2": "• 7+ years of Mechanism Design and Engineering Experience",
@@ -85,10 +85,10 @@
     },
     {
       "img": "img/team/dan.png",
-      "name": "Dan Ogrodnik",
+      "name": "Dan O.",
       "job": "Music and Technology",
-      "info": "• B.M. in Music (Hartt)",
-      "info2": "• B.F.A. in Music (Cal Arts)",
+      "info": "• M.F.A. in Music (Cal Arts)",
+      "info2": "• B.M. in Music (Hartt)",
       "info3": "• 12 Years Private Studio Experience",
       "info4": "• HS, Undergrad, Postgrad Teaching Experience",
       "info5": "• Likes: Snowboarding, Longboarding, Coffee, Cats",
@@ -97,7 +97,7 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
+    "address": "Los Angeles, CA 90039",
     "phone": "+1 (213) 866-4702",
     "email": "booking@wildcattutoring.com",
     "facebook": "fb.com",
