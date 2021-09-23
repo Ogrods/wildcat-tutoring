@@ -106,6 +106,11 @@
   },
   "Features": [
     {
+      "icon": "fa fa-pencil",
+      "title": "English",
+      "text": "Essay writing assistance, English as a second language, English Literature, and English Rhetoric."
+    },
+    {
       "icon": "fa fa-calculator",
       "title": "Mathematics",
       "text": "Pre-Algebra, Algebra I & II, Pre-Calculus, Trigonometry, Integrated Mathematics, Calculus, Statistics, and standardized test prep."
@@ -114,11 +119,6 @@
       "icon": "fa fa-flask",
       "title": "Science",
       "text": "Physical Science, Chemistry (all levels), Physics (all levels), Biology (all levels), Environmental Science (all levels), and standardized test prep."
-    },
-    {
-      "icon": "fa fa-pencil",
-      "title": "English",
-      "text": "Essay writing assistance, English as a second language, English Literature, and English Rhetoric."
     },
     {
       "icon": "fa fa-book",
