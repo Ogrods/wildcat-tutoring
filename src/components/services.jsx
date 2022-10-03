@@ -26,7 +26,7 @@ export const Services = (props) => {
         </div>
         <a
                   href='#contact'
-                  className='btn btn-custom btn-lg page-scroll'
+                  className='btn btn-custom btn-lg page-scroll services-btn-learn-more
                 >leARN mORE</a>
       </div>
     </div>
