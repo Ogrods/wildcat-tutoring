@@ -191,16 +191,16 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/sherlock2-large.png'
-                    title='Sherlock & Watson'
+                    href='img/portfolio/mookie1-large.png'
+                    title='Mookie'
                     target='_blank'
                     data-lightbox-gallery='gallery1'
                   >
                     <div className='hover-text'>
-                      <h4>Sherlock & Watson</h4>
+                      <h4>Mookie</h4>
                     </div>
                     <img
-                      src='img/portfolio/sherlock2-small.png'
+                      src='img/portfolio/mookie1-small.png'
                       className='img-responsive'
                       alt='Sherlock & Watson'
                     />{' '}
