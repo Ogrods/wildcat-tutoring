@@ -202,7 +202,7 @@ export const Gallery = (props) => {
                     <img
                       src='img/portfolio/mookie1-small.png'
                       className='img-responsive'
-                      alt='Sherlock & Watson'
+                      alt='Mookie'
                     />{' '}
                   </a>{' '}
                 </div>
